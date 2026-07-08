@@ -35,28 +35,7 @@ Total Sample Size - 650
 
 * Project framework
 
-Social Media Data
-       │
-       ▼
-Data Preprocessing
-       │
-       ▼
-Feature Extraction
-       │
-       ▼
- Model Training
-       ├── Naive Bayes
-       └── Random Forest
-       │
-       ▼
- Model Evaluation
- (Accuracy, Precision, Recall, F1-Score)
-       │
-       ▼
-Performance Comparison
-       │
-       ▼
- Mental Health Prediction
+Social Media Data -> Data Preprocessing -> Feature Extraction -> Model Training (Naive Bayes) / (Random Forest) -> Model Evaluation (Accuracy, Precision, Recall, F1-Score) -> Performance Comparison -> Mental Health Prediction
 
 * Model Evaluation
 
