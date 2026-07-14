@@ -15,10 +15,10 @@ Mental health has become an increasingly important area of research, especially 
 
 ## PICO Framework
 
-Problem - Mental Health Detection from Social Media Data 
-Intervention - Naive Bayes 
-Comparison - Random Forest 
-Outcome - Improved predictive accuracy and interpretable classification 
+- Problem - Mental Health Detection from Social Media Data 
+- Intervention - Naive Bayes 
+- Comparison - Random Forest 
+- Outcome - Improved predictive accuracy and interpretable classification 
 
 ## Technologies Used
 
