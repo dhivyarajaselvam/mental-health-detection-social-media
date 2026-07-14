@@ -47,6 +47,32 @@ The performance of Naive Bayes and Random Forest is evaluated using:
 - F1-Score
 - Confusion Matrix
 
+## Performance Summary
+
+ *Model & Accuracy 
+ 
+- Naive Bayes 92%
+- Random Forest  85% 
+
+## Project Images
+
+* Materials and Methods
+
+![Materials and Methods](Materials%20and%20Methods.png)
+
+
+* Group Statistics
+
+![Group Statistics](Group%20statistics.png)
+
+* Performance Comparison
+
+![Performance Comparison](Performance%20comparison.png)
+
+* Bar Chart
+
+![Bar Chart](Bar%20chart.png)
+
 * Author
 
 Dhivya Rajaselvam
