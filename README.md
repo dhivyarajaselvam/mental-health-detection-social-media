@@ -51,6 +51,8 @@ The performance of Naive Bayes and Random Forest is evaluated using:
 - Naive Bayes 92%
 - Random Forest  85%
 
+## Sample size 
+
 * Groups - 2
   
 - Sample Size per Group - 325 
