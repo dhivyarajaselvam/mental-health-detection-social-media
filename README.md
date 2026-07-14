@@ -1,6 +1,6 @@
 * Mental Health Detection from Social Media Data using Naive Bayes and Random Forest
 
-An interpretable machine learning project for detecting mental health conditions from social media data using (Naive Bayes) and (Random Forest), with a comparative analysis of predictive performance and model interpretability.
+An interpretable machine learning project for detecting mental health conditions from social media data using Naive Bayes and Random Forest, with a comparative analysis of predictive performance and model interpretability.
 
 * Project Overview
 
@@ -35,7 +35,7 @@ Total Sample Size - 650
 
 * Project framework
 
-Social Media Data -> Data Preprocessing -> Feature Extraction -> Model Training (Naive Bayes) / (Random Forest) -> Model Evaluation (Accuracy, Precision, Recall, F1-Score) -> Performance Comparison -> Mental Health Prediction
+Social Media Data -> Data Preprocessing -> Feature Extraction -> Model Training (Naive Bayes / Random Forest) -> Model Evaluation (Accuracy, Precision, Recall, F1-Score) -> Performance Comparison -> Mental Health Prediction
 
 * Model Evaluation
 
