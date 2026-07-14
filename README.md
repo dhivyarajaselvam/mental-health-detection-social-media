@@ -19,9 +19,6 @@ Problem - Mental Health Detection from Social Media Data
 Intervention - Naive Bayes 
 Comparison - Random Forest 
 Outcome - Improved predictive accuracy and interpretable classification 
-Groups - 2 
-Sample Size per Group - 325 
-Total Sample Size - 650 
 
 ## Technologies Used
 
@@ -49,10 +46,15 @@ The performance of Naive Bayes and Random Forest is evaluated using:
 
 ## Performance Summary
 
-* Model & Accuracy 
- 
+* Model & Accuracy
+  
 - Naive Bayes 92%
-- Random Forest  85% 
+- Random Forest  85%
+
+* Groups - 2
+  
+Sample Size per Group - 325 
+Total Sample Size - 650 
 
 ## Project Images
 
@@ -73,7 +75,7 @@ The performance of Naive Bayes and Random Forest is evaluated using:
 
 ![Bar Chart](Bar%20chart.png)
 
-* Author
+## Author
 
 Dhivya Rajaselvam
 (BCA Student)
