@@ -56,7 +56,24 @@ The performance of Naive Bayes and Random Forest is evaluated using:
 * Groups - 2
   
 - Sample Size per Group - 325 
-- Total Sample Size - 650 
+- Total Sample Size - 650
+
+## Random Forest
+
+- Implemented the Random Forest classification algorithm for mental health detection.
+- Trained multiple decision trees to improve prediction reliability.
+- Compared the model using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
+- Achieved 85% classification accuracy.
+- Analyzed model performance for robust and interpretable predictions.
+
+## Naive Bayes
+
+- Implemented the Naive Bayes classification algorithm for mental health detection from social media data.
+- Performed data preprocessing and feature extraction before model training.
+- Evaluated the model using Accuracy, Precision, Recall, F1-Score, and Confusion Matrix.
+- Achieved 92% classification accuracy.
+- Demonstrated efficient and interpretable text classification performance.
+
 
 ## Project Images
 
